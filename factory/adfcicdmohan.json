@@ -1,0 +1,9 @@
+{
+	"name": "adfcicdmohan",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "41656586-132e-47d8-9afe-d16b07f24f66",
+		"tenantId": "e994172e-3196-46a8-bd95-41ad3dc3632d"
+	}
+}
